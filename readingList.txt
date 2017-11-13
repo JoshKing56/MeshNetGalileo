@@ -11,19 +11,19 @@ Galileos{
       - Intel Getting Started Guide.
           https://software.intel.com/en-us/get-started-galileo-linux-step1
 
-      - Getting Started Galileo…Sparc Arduno
+      - Getting Started Galileo… (Better guide than the intel one...)
           https://learn.sparkfun.com/tutorials/galileo-getting-started-guide
 
-      - Debian on Galileo
+      - Debian on Galileo (Possible option)
           http://allynh.com/blog/installing-debian-on-the-intel-galileo/
 
-      - PCI e Amazon
+      - PCI e Amazon (Possible wifi adapter)
           https://www.amazon.com/Intel-4965AGN-Next-Gen-Wireless-N-Network/dp/B000RFPBQQ
 
-      - Wifi Adapters
+      - Wifi Adapters (Other wifi adapters)
           https://elinux.org/RPi_USB_Wi-Fi_Adapters
 
-      - Video
+      - Video (Kind of unnecessary but could use some of his methods)
           https://gist.github.com/cpmpercussion/0e731d25dd0825a30273
 
       - Intel Support Page Galileo.
@@ -32,14 +32,14 @@ Galileos{
       - Wifi Setup Galileo
           https://www.hackster.io/semihyildirim/intel-galileo-wireless-network-setup-wifi-a78fb3
 
-      - Windows on Galileo
+      - Windows on Galileo (An option)
           https://software.intel.com/en-us/get-started-galileo-windows
 
-      - RIOT OS.
+      - RIOT OS. (Possible OS, especially since it's made for low power boards)
           https://github.com/RIOT-OS/RIOT/wiki/Board:-Intel-Galileo
           https://github.com/RIOT-OS/RIOT/wiki/Introduction
 
-      - IOT project… and Business Intelligence on Galileo
+      - IOT Blog, has some articles on the Galileo
           http://bretstateham.com
 }
 
