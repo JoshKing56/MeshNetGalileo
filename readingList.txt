@@ -1,0 +1,75 @@
+ __^__                                         __^__
+( ___ )---------------------------------------( ___ )
+ |   |                                         |   |
+ | / | Useful Galileo & Mesh Net Links/Reading | \ |
+ |___|                                         |___|
+(_____)---------------------------------------(_____)
+
+
+Galileos{
+      - Intel Getting Started Guide.
+          https://software.intel.com/en-us/get-started-galileo-linux-step1
+
+      - Getting Started Galileo…Sparc Arduno
+          https://learn.sparkfun.com/tutorials/galileo-getting-started-guide
+
+      - Debian on Galileo
+          http://allynh.com/blog/installing-debian-on-the-intel-galileo/
+
+      - PCI e Amazon
+          https://www.amazon.com/Intel-4965AGN-Next-Gen-Wireless-N-Network/dp/B000RFPBQQ
+
+      - Wifi Adapters
+          https://elinux.org/RPi_USB_Wi-Fi_Adapters
+
+      - Video
+          https://gist.github.com/cpmpercussion/0e731d25dd0825a30273
+
+      - Intel Support Page Galileo.
+          https://www.intel.com/content/www/us/en/support/products/78919/boards-and-kits/intel-galileo-boards/intel-galileo-board.html
+
+      - Wifi Setup Galileo
+          https://www.hackster.io/semihyildirim/intel-galileo-wireless-network-setup-wifi-a78fb3
+
+      - Windows on Galileo
+          https://software.intel.com/en-us/get-started-galileo-windows
+
+      - RIOT OS.
+          https://github.com/RIOT-OS/RIOT/wiki/Board:-Intel-Galileo
+          https://github.com/RIOT-OS/RIOT/wiki/Introduction
+
+      - IOT project… and Business Intelligence on Galileo
+          http://bretstateham.com
+}
+
+Mesh Networks{
+      - Mesh OS (Broadband Hammet)
+          http://www.broadband-hamnet.org
+
+      - Mesh OS (Smash)
+          http://www.smesh.org
+
+      - Mesh OS (Hyperboria)
+          https://hyperboria.net
+
+      - Mesh OS (Libremesh)
+          http://libremesh.org
+
+      - Mesh OS (Byzantium)
+          http://project-byzantium.org
+
+      - App:
+          https://play.google.com/store/apps/details?id=org.servalproject&feature=nav_result#?t=W251bGwsMSwxLDMsIm9yZy5zZXJ2YWxwcm9qZWN0Il0.
+
+      - Community Internet
+          https://commotionwireless.net
+
+      - 802.11s Mesh standard.
+          http://ieeexplore.ieee.org/document/4597114/
+
+      - Turn an old Wi-Fi network into a wireless mesh
+          https://www.networkworld.com/article/3187371/consumer-electronics/turn-an-old-wi-fi-network-into-a-wireless-mesh.html
+
+      - OS (Airchat)
+          https://github.com/lulzlabs/AirChat
+}
