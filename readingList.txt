@@ -5,6 +5,7 @@
  |___|                                         |___|
 (_____)---------------------------------------(_____)
 
+//NEEDS TO BE SORTED FURTHER
 
 Galileos{
       - Intel Getting Started Guide.
