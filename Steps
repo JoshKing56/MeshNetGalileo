@@ -1,0 +1,6 @@
+Steps taken:
+---> Started with this link: https://learn.sparkfun.com/tutorials/galileo-getting-started-guide
+    ---> If I were to use the onboard "linux" image (Yocta project) I'm gonna need to get a shell
+    ---> Two ways, one is a 3.5mm to RS232 cable, which cost money
+    ---> Other way is to use the arduino for Galileo image to upload code to the galileo, which will let me access the shell onboard
+    
